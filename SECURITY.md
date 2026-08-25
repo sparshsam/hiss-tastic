@@ -10,7 +10,15 @@ No environment variables are required at this stage. If future modernization wor
 
 ## Reporting a Vulnerability
 
-Please report security issues through GitHub issues or by contacting the maintainer directly. Do not post exploit details in unrelated public forums.
+Please report security issues privately — do not open a public issue.
+
+Use GitHub's private vulnerability reporting:
+
+1. Open the **Security** tab of this repository.
+2. Click **Report a vulnerability**.
+3. Complete the form with as much detail as you can provide.
+
+Include: a clear description of the issue, reproduction steps, the HissTastic version, and the expected impact. Do not post exploit details in unrelated public forums.
 
 ## Policy
 
